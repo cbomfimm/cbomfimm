@@ -13,7 +13,7 @@
 
 - 🔭 I currently work with manual and automated web, api and mobile testing.
 
-- 🌱 Tools I know ** Robot | Swagger | Selenium | Cucumber | Appium | Postman**
+- 🌱 Tools I know **Robot | Swagger | Selenium | Cucumber | Appium | Postman**
 
 - 💡 I try to collaborate on new ideas.
 
