@@ -35,19 +35,19 @@
 <code><img height="20" src="https://www.svgrepo.com/show/374049/robotframework.svg"></code>
 <code><img height="20" src="https://www.svgrepo.com/show/353625/cucumber.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/448219/datadog.svg"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/373845/mongo.svg"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/374093/sql.svg"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/448266/aws.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></code>
 
 <br/>
 <div>
   
 **Technology being learned**
 
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg"></code>
-<code><img height="20" src="https://www.svgrepo.com/show/448266/aws.svg"></code>
 <code><img height="20" src="https://www.svgrepo.com/show/448223/gcp.svg"></code>
-<code><img height="20" src="https://www.svgrepo.com/show/448219/datadog.svg"></code>
-<code><img height="20" src="https://www.svgrepo.com/show/373845/mongo.svg"></code>
-<code><img height="20" src="https://www.svgrepo.com/show/374093/sql.svg"></code>
 
 <div align="center">
   <a href="https://github.com/cbomfimm">
