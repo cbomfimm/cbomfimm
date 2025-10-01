@@ -13,7 +13,7 @@
 
 - 🔭 I currently work with manual and automated web, api and mobile testing.
 
-- 🌱 Tools I know **Robot | Swagger | Selenium | Cucumber | Appium | Postman**
+- 🌱 Tools I know **Cypress | Robot | Swagger | Selenium | Cucumber | Appium | Postman**
 
 - 💡 I try to collaborate on new ideas.
 
@@ -28,12 +28,14 @@
 
 **Testing Tools:**  
 
+<code><img height="20" src="https://cdn.brandfetch.io/idIq_kF0rb/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
 <code><img height="20" src="https://www.svgrepo.com/show/374049/robotframework.svg"></code>
 <code><img height="20" src="https://www.svgrepo.com/show/353625/cucumber.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg"></code>
+
 <br/>
 <div>
   
@@ -41,6 +43,11 @@
 
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/448266/aws.svg"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/448223/gcp.svg"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/448219/datadog.svg"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/373845/mongo.svg"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/374093/sql.svg"></code>
 
 <div align="center">
   <a href="https://github.com/cbomfimm">
